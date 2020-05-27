@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#41c300</color>
+    <color name="colorPrimaryDark">#09af00</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradientstart">#FF0266</color>
+    <color name="gradientend">#ff8300</color>
+    <color name="lightorange">#ff8300</color>
+    <color name="lightorange2">#ffa647</color>
+
+    <color name="semitransorange">#B3ff8300</color>
+    <color name="semitransorange2">#E6ff8300</color>
+    <color name="semitransblack">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#F4000F</color>
+</resources>
